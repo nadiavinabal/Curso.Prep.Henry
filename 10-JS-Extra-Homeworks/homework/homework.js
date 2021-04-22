@@ -39,6 +39,7 @@ function capToFront(s) {
   //al principio de la palabra.
   //Ejemplo: soyHENRY -> HENRYsoy
   //Escribe tu código aquí
+  //sd
   var nueva = '';
   var m = '';
   for (var i = 0; i < s.length; i++) {
